@@ -1,5 +1,6 @@
 # EX-NO-13-MESSAGE-AUTHENTICATION-CODE-MAC
-
+## NAME: LOKESH P
+## REG NO: 2305001015
 ## AIM:
 To implement MESSAGE AUTHENTICATION CODE(MAC)
 
@@ -78,6 +79,8 @@ int main() {
 ```
 
 ## Output:
+<img width="718" height="295" alt="image" src="https://github.com/user-attachments/assets/4e566e08-302f-4b95-9e32-556d21c5d9a0" />
+
 
 
 ## Result:
